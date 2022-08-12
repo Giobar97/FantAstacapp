@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563023948437",
+    "project_id": "fantastacapp",
+    "storage_bucket": "fantastacapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563023948437:android:f2ffc7fd8b5ebdfcb5899c",
+        "android_client_info": {
+          "package_name": "com.giobar.fantastacapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563023948437-2m6b7sja7ulsrlg4m8pt8ivq32bla3em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCErXj-r0RmkBnxl_XaSCD2bPI619nuspU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563023948437-2m6b7sja7ulsrlg4m8pt8ivq32bla3em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
